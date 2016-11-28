@@ -1,0 +1,16 @@
+{
+	"name": "First Test",
+	
+	"purpose": "Test rendering a basic texture region (as map) and movement with the arrow and wasd keys",
+	
+	"map": {
+		"data": "",
+		"texture": "",
+		},
+	
+	"player": {
+		"name": "",
+		},
+	
+	"nations": [],
+}
